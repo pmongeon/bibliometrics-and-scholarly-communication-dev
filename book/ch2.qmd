@@ -8,7 +8,7 @@ bibliography: references.bib
 
 This chapter introduces a conceptual framework drawn from the theories developed by sociologists Robert K. Merton and Pierre Bourdieu to help you understand how the scientific community operates as a social system. We look at both theories separately, starting with Merton and then Bourdieu.
 
-## Mertonian framework 
+## Mertonian framework
 
 Merton was a highly influential American sociologist who is said to have essentially created the modern sociology of science. For Merton, the institutional goal of science is the extension of certified knowledge, and the ethos of science comprises that goal and a set of norms that ensure its fulfillment. The following sections provide an overview of the part of his work, as well as the work of some of his students and close collaborators, through which they sought to understand the conditions under which science as a social system operates in accordance with the ethos of science and sometimes deviate from it.
 
@@ -25,11 +25,7 @@ Merton was a highly influential American sociologist who is said to have essenti
 
 Because of the norms of communism and disinterestedness, the motivation of researchers is the recognition they receive from their peers [@zuckerman1977]. As @cole1973 put it:
 
-> Because recognition is so important to scientists, there must be a reward
-> system that identifies and honors scientific excellence wherever it is found. If
-> a scientist desires to acquire "property", he can only do so through recognition
-> by the system, since there are no other legitimate ways to obtain property in
-> science. (p. 46)
+> Because recognition is so important to scientists, there must be a reward system that identifies and honors scientific excellence wherever it is found. If a scientist desires to acquire "property", he can only do so through recognition by the system, since there are no other legitimate ways to obtain property in science. (p. 46)
 
 Because the role of researchers is to advance knowledge, the scientific community gradually developed a reward system through which those who best fulfill this role are compensated [@merton1957]. This system works well when those who deserve recognition receive it, and the most promising researchers are provided with the resources they need to realize their potential. According to @merton1973 this benefits both the individual researchers and science as a whole.
 
@@ -95,7 +91,7 @@ Scientific capital is a form of symbolic capital specific to the scientific fiel
 
 The habitus of an individual is their mental representation of the world and of their position and the position of others within it. It is the structure of the field in its embodied form @bourdieu1989. Agents acquire the habitus of a specific field through learning and experience within it. Through this process, agents eventually recognize the goals, norms, and structure of the field and are thus able to invest their capital strategically. The field and the habitus are thus interdependent. The habitus is structured by the field of which it is an embodied form, but it also structures the field since it guides the action of agents, which alter the structure of the field.
 
-The habitus produces some regularity in the action of agents because it is derived from an objective structure common to all. However, Bourdieu's theory insists that agents are guided by pragmatism more than by norms or rules. As @bourdieu1986 points out, "we must avoid seeing in agent's behaviour more logic than there is, because the logic of pragmatism is to be logical to a point where being logical ceases to be practical". (p. 41, my traduction).
+The habitus produces some regularity in the action of agents because it is derived from an objective structure common to all. However, Bourdieu's theory insists that agents are guided by pragmatism more than by norms or rules. As @bourdieu1986 points out, "we must avoid seeing in agent's behaviour more logic than there is, because the logic of pragmatism is to be logical to a point where being logical ceases to be practical". (p. 41, my translation).
 
 ## Summary
 
