@@ -193,15 +193,13 @@ also be downloaded for free (don't do it, it's huge).
 
 The [Maritime Institute for Science, Technology, and Society
 (MISTS)](https://www.mists-imsts.ca/) provides direct access to the
-OpenAlex database through its PostgreSQL server.
+OpenAlex database through its PostgreSQL server. If you would like to
+make use of this access, **please contact your instructor or TA,** and
+you will be provided with a username, password, and log in instructions.
 
-Your connection information should have been sent to you by email, and a
-demo will be performed in class to show you how to connect and query the
-database. If you are having problems accessing the database, contact the
-course instructor or TA.
-
-I recommend using [DBeaver](https://dbeaver.io/) to connect and query
-the MISTS database, but any PostgreSQL client will do.
+Once you have your connection information, I recommend using
+[DBeaver](https://dbeaver.io/) to connect and query the MISTS database,
+but any PostgreSQL client will do.
 
 **Please:** be careful when running SQL queries on the server. The MISTS
 servers do not run large resources, so poorly constructed queries might
