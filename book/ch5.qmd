@@ -90,6 +90,18 @@ Listing most frequent words used in titles and abstracts of articles published i
 Topic and terms are not equivalent, and a topic is usually represented by a set of terms. For instance, the COVID-19 pandemic topic could be represented by terms like coronavirus, COVID, COVID-19, Omicron, etc. This is something to keep in mind as you dive into the data and try to determine what topics are or interest within a discipline or any set of publications.
 :::
 
+::: callout-tip
+## Delineating a research topic
+
+Now might be a good time to note that so far we discussed mostly disciplines and sub-disciplines, which as we just saw, can be characterized by the terms (or topics) that are the most frequently found in the articles published in the discipline. But what if one is interested in analyzing all of the research on a given topic, irrespective of the discipline?
+
+This is where information searching skills can be useful. Because there is no better way to gather publications on a topic than querying the database with all the necessary keywords and filters to achieve the best possible recall and precision. Of course, there are multiple approach to do this, such as writing a very broad query that maximizes recall and filtering out the irrelevant publications, or writing a very specific query that maximizes precision, perhaps at the expense of recall.
+
+The point is that classifications are not so useful when they do not include a category that represent the body of literature that one want to study.
+
+One fun thing about choosing a research topic as your object of study, you can use disciplinary classification to analyze the diversity of disciplines that are interested in the topic.
+:::
+
 ### Disciplines as networks
 
 The structure of a discipline can be represented as a network of agents and research objects that are connected with one another to some degree. Different kinds of networks are typically used in bibliometrics:
@@ -106,7 +118,7 @@ Co-occurrence networks are undirected networks in which the edges are determined
 
 #### Direct citation network
 
-Direct citation networks are the most common for of **directed** networks that one will come across in bibliometrics. In a directed network, the relationship between two nodes has a direction: So when article A cites article B, a direct citation link from article A to article B is created. This is not the same as a direct citation link between article B and article A. In fact, it is extremely unlikely for A to cite B AND for B to cite A. Indeed, articles usually cite other articles that have already been published, which means that the cited articles can not cite the citing articles back.
+Direct citation networks are the most common for of **directed** networks that one will come across in bibliometrics. In a directed network, the relationship between two nodes has a direction: So when article A cites article B, a direct citation link from article A to article B is created. This is not the same as a direct citation link between article B and article A. In fact, it is extremely unlikely for A to cite B AND for B to cite A. Indeed, articles usually cite other articles that have already been published, which means that the cited articles cannot cite the citing articles back.
 
 ### Networks in practice
 

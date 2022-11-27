@@ -146,21 +146,21 @@ However, the informative value of these statements remains limited. Firstly, onl
 
 There are two basic ways of counting the research contributions of an individual researcher or another entity (institution, country, etc.): one that does not take into account collaboration (full counting), and one that does take into account collaboration (fractional counting, harmonic counting, geometric counting, and arithmetic counting.
 
-| Indicator           |                          Share of credit for the author in the *i^~th~^* position in a byline of *N* authors                          |
-|-------------------|:---------------------------------------------------:|
-| Full counting       |                                                                   1                                                                   |
-| Fractional counting |                              $$                                                                                                       
-                                                                                                           \dfrac{1}{N}                                       
-                                                                                                                                               $$             |
-| Harmonic counting   |                              $$                                                                                                       
-                                                                                       \dfrac{\dfrac{1}{i}}{1+\dfrac{1}{2}+...+\dfrac{1}{N}}                  
-                                                                                                                                               $$             |
-| Geometric counting  |                              $$                                                                                                       
-                                                                                                      \dfrac{2^{N-i}}{2^N-1}                                  
-                                                                                                                                               $$             |
-| Arithmetic counting |                              $$                                                                                                       
-                                                                                                     \dfrac{N+1-i}{1+2+...+N}                                 
-                                                                                                                                               $$             |
+| Indicator           |                                                   Share of credit for the author in the *i^~th~^* position in a byline of *N* authors                                                   |
+|---------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Full counting       |                                                                                            1                                                                                            |
+| Fractional counting |                           $$                                                                                                                                                            
+                                                                                                                                                           \dfrac{1}{N}                                         
+                                                                                                                                                                                                        $$      |
+| Harmonic counting   |                           $$                                                                                                                                                            
+                                                                                                                                       \dfrac{\dfrac{1}{i}}{1+\dfrac{1}{2}+...+\dfrac{1}{N}}                    
+                                                                                                                                                                                                        $$      |
+| Geometric counting  |                           $$                                                                                                                                                            
+                                                                                                                                                      \dfrac{2^{N-i}}{2^N-1}                                    
+                                                                                                                                                                                                        $$      |
+| Arithmetic counting |                           $$                                                                                                                                                            
+                                                                                                                                                     \dfrac{N+1-i}{1+2+...+N}                                   
+                                                                                                                                                                                                        $$      |
 
 : Methods of counting publications in bibliometrics
 
@@ -171,7 +171,7 @@ A study by @hagen2010 suggests that harmonic counting best fits empirical data o
 Bibliometric indicators can also be used to measure and characterize collaboration at the article level. The table below summarizes commonly used indicators of collaboration.
 
 | Indicator                        | Variable type | Description                                                                                              |
-|---------------------|------------------|----------------------------------|
+|----------------------------------|---------------|----------------------------------------------------------------------------------------------------------|
 | Collaboration                    | Categorical   | There is more than one author on the byline.                                                             |
 | Interinstitutional collaboration | Categorical   | There is more than one institution on the byline.                                                        |
 | International collaboration      | Categorical   | There is more than one country on the byline.                                                            |

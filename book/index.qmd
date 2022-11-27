@@ -19,7 +19,7 @@ Upon completion of the course you will be able to:
 ## Schedule
 
 | Week | Section                           | Topic                                                                  |
-|:------------:|------------------|----------------------------------------|
+|:----:|-----------------------------------|------------------------------------------------------------------------|
 |  1   | Understanding the research system | Introduction: bibliometrics and scholarly communications               |
 |  2   | Understanding the research system | Function, social structure, norms, and the research reward system.     |
 |  3   | Understanding the research system | Journals, peer-review, and the organization and evaluation of research |
