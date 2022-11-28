@@ -19,7 +19,7 @@ Upon completion of the course you will be able to:
 ## Schedule
 
 | Week | Section                           | Topic                                                                  |
-|:----:|-----------------------------------|------------------------------------------------------------------------|
+|:------------:|------------------|----------------------------------------|
 |  1   | Understanding the research system | Introduction: bibliometrics and scholarly communications               |
 |  2   | Understanding the research system | Function, social structure, norms, and the research reward system.     |
 |  3   | Understanding the research system | Journals, peer-review, and the organization and evaluation of research |
@@ -40,7 +40,7 @@ Upon completion of the course you will be able to:
 |  1  | Article review                                      |  15%  |  Oct 3   |
 |  2  | Outline of a bibliometric research project          |  5%   |  Oct 28  |
 |  3  | Descriptive analysis of a research network          |  10%  |  Nov 18  |
-|  4  | Research assessment report                          |  30%  |  Dec 2   |
+|  4  | Research assessment report                          |  30%  |  Dec 9   |
 |  5  | Research project                                    |  30%  |  Dec 16  |
 | N/A | Engagement (preparation, attendance, participation) |  10%  |   N/A    |
 
